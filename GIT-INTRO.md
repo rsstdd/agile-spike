@@ -13,6 +13,8 @@ git add .
 git commit -m "Some message"
 git checkout -b <branch-name>
 git merge <branch-name>
+git checkout <branch-name>
+git branch -l
 git branch -d <branch-name>
 ```
 
