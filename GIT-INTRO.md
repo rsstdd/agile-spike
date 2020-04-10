@@ -1,9 +1,5 @@
 # Git
 
-## Definitions
-
-- Git - a distributed version control system (VCS).
-
 ## Common commands
 
 ```bash
@@ -151,3 +147,7 @@ To delete a branch, you can run the **git branch** command with the **-d** flag:
 ```bash
     git branch -d <branch-name>
 ```
+
+## Definitions
+
+- Git - a distributed version control system (VCS).
